@@ -1,8 +1,11 @@
 # fc-docker
 Repositorio do desafio go curso Full cycle 3.0
 
-Como rodar: docker run skyzenho/fullcycle
+Como rodar: 
 
+```
+docker run skyzenho/fullcycle
+```
 Desafio GO:
 ----
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
